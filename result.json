@@ -1,0 +1,901 @@
+[{
+    "communityName": "疃里新村",
+    "houseInfo": "3室1厅",
+    "houseArea": "104.96平米",
+    "towards": "南北",
+    "finish": "简装",
+    "lift": "无电梯",
+    "floorInfo": "底层(共6层)2000年建板楼",
+    "position": "回龙观",
+    "price": "单价40492元/平米"
+}, {
+    "communityName": "风雅园三区",
+    "houseInfo": "2室1厅",
+    "houseArea": "86.26平米",
+    "towards": "南北",
+    "finish": "毛坯",
+    "lift": "信息缺失",
+    "floorInfo": "中楼层(共20层)2008年建板楼",
+    "position": "望京",
+    "price": "单价51009元/平米"
+}, {
+    "communityName": "首开知语城",
+    "houseInfo": "3室2厅",
+    "houseArea": "151.39平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共18层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价100073元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "2室1厅",
+    "houseArea": "96.3平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共28层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价28038元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "1室1厅",
+    "houseArea": "57.43平米",
+    "towards": "南",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共16层)2000年建塔楼",
+    "position": "世纪城",
+    "price": "单价30995元/平米"
+}, {
+    "communityName": "远大园六区",
+    "houseInfo": "4室2厅",
+    "houseArea": "166.82平米",
+    "towards": "东南西北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "高楼层(共6层)2003年建板楼",
+    "position": "回龙观",
+    "price": "单价110898元/平米"
+}, {
+    "communityName": "龙跃苑二区",
+    "houseInfo": "3室2厅",
+    "houseArea": "135.48平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "无电梯",
+    "floorInfo": "中楼层(共21层)2010年建塔楼",
+    "position": "管庄",
+    "price": "单价45026元/平米"
+}, {
+    "communityName": "住欣家园",
+    "houseInfo": "2室1厅",
+    "houseArea": "70平米",
+    "towards": "东南",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "底层(共16层)2003年建板楼",
+    "position": "东直门",
+    "price": "单价50286元/平米"
+}, {
+    "communityName": "民安小区东直门内北小街",
+    "houseInfo": "4室1厅",
+    "houseArea": "118.46平米",
+    "towards": "东西北",
+    "finish": "毛坯",
+    "lift": "有电梯",
+    "floorInfo": "顶层(共5层)2000年建板楼",
+    "position": "回龙观",
+    "price": "单价102989元/平米"
+}, {
+    "communityName": "三合庄园",
+    "houseInfo": "2室1厅",
+    "houseArea": "91.03平米",
+    "towards": "南北",
+    "finish": "简装",
+    "lift": "信息缺失",
+    "floorInfo": "中楼层(共7层)2000年建板楼",
+    "position": "回龙观",
+    "price": "单价53829元/平米"
+}, {
+    "communityName": "风雅园二区",
+    "houseInfo": "2室1厅",
+    "houseArea": "98.35平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "无电梯",
+    "floorInfo": "中楼层(共15层)1991年建塔楼",
+    "position": "蒲黄榆",
+    "price": "单价50331元/平米"
+}, {
+    "communityName": "蒲黄榆路",
+    "houseInfo": "3室1厅",
+    "houseArea": "75.7平米",
+    "towards": "南西北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共9层)2007年建板楼",
+    "position": "青塔",
+    "price": "单价71335元/平米"
+}, {
+    "communityName": "万科中粮假日风景",
+    "houseInfo": "2室1厅",
+    "houseArea": "98.41平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "顶层(共6层)2008年建板楼",
+    "position": "回龙观",
+    "price": "单价83325元/平米"
+}, {
+    "communityName": "天露园一区",
+    "houseInfo": "3室1厅",
+    "houseArea": "128.42平米",
+    "towards": "南北",
+    "finish": "毛坯",
+    "lift": "信息缺失",
+    "floorInfo": "中楼层(共24层)2010年建板塔结合",
+    "position": "燕顺路国道",
+    "price": "单价40804元/平米"
+}, {
+    "communityName": "东方夏威夷南岸一期",
+    "houseInfo": "3室1厅",
+    "houseArea": "128.58平米",
+    "towards": "南北",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共21层)2007年建板楼",
+    "position": "管庄",
+    "price": "单价31110元/平米"
+}, {
+    "communityName": "柏林爱乐三期",
+    "houseInfo": "1室1厅",
+    "houseArea": "66.47平米",
+    "towards": "西北",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共18层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价67700元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "2室1厅",
+    "houseArea": "87.47平米",
+    "towards": "东南",
+    "finish": "毛坯",
+    "lift": "信息缺失",
+    "floorInfo": "中楼层(共28层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价26867元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "3室1厅",
+    "houseArea": "123.88平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共6层)2003年建板楼",
+    "position": "回龙观",
+    "price": "单价25428元/平米"
+}, {
+    "communityName": "龙跃苑二区",
+    "houseInfo": "2室1厅",
+    "houseArea": "98.76平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "无电梯",
+    "floorInfo": "低楼层(共19层)2009年建塔楼",
+    "position": "酒仙桥",
+    "price": "单价51135元/平米"
+}, {
+    "communityName": "上东三角洲",
+    "houseInfo": "2室1厅",
+    "houseArea": "79.16平米",
+    "towards": "南",
+    "finish": "精装",
+    "lift": "信息缺失",
+    "floorInfo": "底层(共17层)2009年建板塔结合",
+    "position": "梨园",
+    "price": "单价66954元/平米"
+}, {
+    "communityName": "新通国际花园",
+    "houseInfo": "2室2厅",
+    "houseArea": "109.18平米",
+    "towards": "南北",
+    "finish": "毛坯",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共6层)1995年建板楼",
+    "position": "梨园",
+    "price": "单价54956元/平米"
+}, {
+    "communityName": "云景里",
+    "houseInfo": "2室1厅",
+    "houseArea": "93.89平米",
+    "towards": "南北",
+    "finish": "简装",
+    "lift": "无电梯",
+    "floorInfo": "高楼层(共28层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价47396元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "2室1厅",
+    "houseArea": "88.74平米",
+    "towards": "东西北",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共28层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价27609元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "2室1厅",
+    "houseArea": "99.3平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共8层)2004年建板楼",
+    "position": "管庄",
+    "price": "单价28701元/平米"
+}, {
+    "communityName": "柏林爱乐二期",
+    "houseInfo": "2室1厅",
+    "houseArea": "103.26平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "顶层(共15层)2005年建板塔结合",
+    "position": "常营",
+    "price": "单价67306元/平米"
+}, {
+    "communityName": "万象新天二区",
+    "houseInfo": "1室1厅",
+    "houseArea": "66.46平米",
+    "towards": "北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共11层)2002年建板楼",
+    "position": "果园",
+    "price": "单价69967元/平米"
+}, {
+    "communityName": "新华联家园南区",
+    "houseInfo": "3室1厅",
+    "houseArea": "137.96平米",
+    "towards": "南西北",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共6层)2009年建板楼",
+    "position": "燕顺路西",
+    "price": "单价54364元/平米"
+}, {
+    "communityName": "美林湾",
+    "houseInfo": "2室2厅",
+    "houseArea": "91.26平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "无电梯",
+    "floorInfo": "低楼层(共18层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价35723元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "2室1厅",
+    "houseArea": "87.47平米",
+    "towards": "东南",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共28层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价29725元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "2室1厅",
+    "houseArea": "99.56平米",
+    "towards": "南北",
+    "finish": "毛坯",
+    "lift": "有电梯",
+    "floorInfo": "信息缺失",
+    "position": "信息缺失",
+    "price": "单价26316元/平米"
+}, {
+    "communityName": "天通苑北三区",
+    "houseInfo": "2室1厅",
+    "houseArea": "97.18平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "无电梯",
+    "floorInfo": "中楼层(共28层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价45174元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "2室1厅",
+    "houseArea": "100.2平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共18层)1995年建塔楼",
+    "position": "科技园区",
+    "price": "单价28444元/平米"
+}, {
+    "communityName": "城市经典",
+    "houseInfo": "3室1厅",
+    "houseArea": "120.17平米",
+    "towards": "东北",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共30层)2002年建塔楼",
+    "position": "四惠",
+    "price": "单价49098元/平米"
+}, {
+    "communityName": "远洋天地二期",
+    "houseInfo": "3室1厅",
+    "houseArea": "138.57平米",
+    "towards": "东南",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "顶层(共6层)1996年建板楼",
+    "position": "新华大街",
+    "price": "单价72022元/平米"
+}, {
+    "communityName": "吉祥园",
+    "houseInfo": "2室1厅",
+    "houseArea": "74.62平米",
+    "towards": "南北",
+    "finish": "简装",
+    "lift": "无电梯",
+    "floorInfo": "中楼层(共6层)2005年建板楼",
+    "position": "九棵树(家乐福)",
+    "price": "单价64326元/平米"
+}, {
+    "communityName": "旗舰凯旋一期",
+    "houseInfo": "3室1厅",
+    "houseArea": "117.05平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "无电梯",
+    "floorInfo": "中楼层(共20层)1992年建塔楼",
+    "position": "马甸",
+    "price": "单价54251元/平米"
+}, {
+    "communityName": "裕中西里",
+    "houseInfo": "3室1厅",
+    "houseArea": "86.2平米",
+    "towards": "东南北",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共29层)2010年建塔楼",
+    "position": "常营",
+    "price": "单价149884元/平米"
+}, {
+    "communityName": "保利嘉园三号院",
+    "houseInfo": "2室1厅",
+    "houseArea": "88.75平米",
+    "towards": "东南北",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共6层)1997年建板楼",
+    "position": "回龙观",
+    "price": "单价55212元/平米"
+}, {
+    "communityName": "万龙社区",
+    "houseInfo": "2室1厅",
+    "houseArea": "70.45平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "无电梯",
+    "floorInfo": "低楼层(共28层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价62456元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "1室1厅",
+    "houseArea": "57.43平米",
+    "towards": "南",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "高楼层(共32层)2007年建板塔结合",
+    "position": "福成五期公交总站",
+    "price": "单价29602元/平米"
+}, {
+    "communityName": "福泽颐园",
+    "houseInfo": "1室2厅",
+    "houseArea": "74.08平米",
+    "towards": "南",
+    "finish": "精装",
+    "lift": "信息缺失",
+    "floorInfo": "中楼层(共11层)2008年建板塔结合",
+    "position": "福成五期公交总站",
+    "price": "单价27673元/平米"
+}, {
+    "communityName": "忆江南",
+    "houseInfo": "2室1厅",
+    "houseArea": "69.82平米",
+    "towards": "南",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "高楼层(共6层)1996年建板楼",
+    "position": "马家堡",
+    "price": "单价29791元/平米"
+}, {
+    "communityName": "南华小区",
+    "houseInfo": "2室1厅",
+    "houseArea": "63.95平米",
+    "towards": "东西",
+    "finish": "简装",
+    "lift": "无电梯",
+    "floorInfo": "高楼层(共6层)2002年建板楼",
+    "position": "果园",
+    "price": "单价64895元/平米"
+}, {
+    "communityName": "新华联家园南区",
+    "houseInfo": "3室1厅",
+    "houseArea": "110.64平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "无电梯",
+    "floorInfo": "低楼层(共18层)2002年建塔楼",
+    "position": "广安门",
+    "price": "单价56490元/平米"
+}, {
+    "communityName": "红居街10号院",
+    "houseInfo": "2室1厅",
+    "houseArea": "70.21平米",
+    "towards": "南",
+    "finish": "简装",
+    "lift": "信息缺失",
+    "floorInfo": "顶层(共7层)2006年建板楼",
+    "position": "后沙峪",
+    "price": "单价109956元/平米"
+}, {
+    "communityName": "香花畦家园",
+    "houseInfo": "3室1厅",
+    "houseArea": "121平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "底层(共6层)2005年建板楼",
+    "position": "旧宫",
+    "price": "单价61984元/平米"
+}, {
+    "communityName": "成和园",
+    "houseInfo": "2室1厅",
+    "houseArea": "69.65平米",
+    "towards": "南北",
+    "finish": "简装",
+    "lift": "无电梯",
+    "floorInfo": "顶层(共13层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价54559元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "4室1厅",
+    "houseArea": "192.35平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共11层)2007年建板楼",
+    "position": "管庄",
+    "price": "单价20796元/平米"
+}, {
+    "communityName": "柏林爱乐三期",
+    "houseInfo": "2室1厅",
+    "houseArea": "71.64平米",
+    "towards": "东西",
+    "finish": "精装",
+    "lift": "信息缺失",
+    "floorInfo": "低楼层(共6层)1993年建板楼",
+    "position": "东直门",
+    "price": "单价68119元/平米"
+}, {
+    "communityName": "北官厅胡同甲二号院",
+    "houseInfo": "4室1厅",
+    "houseArea": "91.71平米",
+    "towards": "南北",
+    "finish": "简装",
+    "lift": "无电梯",
+    "floorInfo": "底层(共18层)1996年建塔楼",
+    "position": "定慧寺",
+    "price": "单价134991元/平米"
+}, {
+    "communityName": "西三环北路105号院",
+    "houseInfo": "3室2厅",
+    "houseArea": "107平米",
+    "towards": "西北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "顶层(共8层)2009年建板楼",
+    "position": "东关",
+    "price": "单价114019元/平米"
+}, {
+    "communityName": "随园",
+    "houseInfo": "3室2厅",
+    "houseArea": "133.21平米",
+    "towards": "南北",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共6层)1996年建板楼",
+    "position": "玉桥",
+    "price": "单价47294元/平米"
+}, {
+    "communityName": "玉桥南里",
+    "houseInfo": "2室1厅",
+    "houseArea": "67.88平米",
+    "towards": "南",
+    "finish": "精装",
+    "lift": "无电梯",
+    "floorInfo": "高楼层(共18层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价58191元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "2室1厅",
+    "houseArea": "79.82平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "高楼层(共28层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价25182元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "1室1厅",
+    "houseArea": "57.21平米",
+    "towards": "南",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "高楼层(共6层)2009年建板楼",
+    "position": "燕顺路西",
+    "price": "单价30939元/平米"
+}, {
+    "communityName": "星河皓月",
+    "houseInfo": "3室1厅",
+    "houseArea": "123.45平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "无电梯",
+    "floorInfo": "中楼层(共13层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价33212元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "1室1厅",
+    "houseArea": "69.07平米",
+    "towards": "南",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共20层)2003年建板塔结合",
+    "position": "大望路",
+    "price": "单价28957元/平米"
+}, {
+    "communityName": "后现代城",
+    "houseInfo": "1室2厅",
+    "houseArea": "63.93平米",
+    "towards": "南",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "顶层(共6层)1991年建板楼",
+    "position": "芍药居",
+    "price": "单价82904元/平米"
+}, {
+    "communityName": "高原街4号院",
+    "houseInfo": "3室1厅",
+    "houseArea": "75.5平米",
+    "towards": "南",
+    "finish": "简装",
+    "lift": "无电梯",
+    "floorInfo": "中楼层(共6层)2003年建板楼",
+    "position": "回龙观",
+    "price": "单价90729元/平米"
+}, {
+    "communityName": "龙泽苑东区",
+    "houseInfo": "2室1厅",
+    "houseArea": "108.77平米",
+    "towards": "南北",
+    "finish": "简装",
+    "lift": "无电梯",
+    "floorInfo": "信息缺失",
+    "position": "信息缺失",
+    "price": "单价54795元/平米"
+}, {
+    "communityName": "金隅丽港城",
+    "houseInfo": "3室2厅",
+    "houseArea": "132.52平米",
+    "towards": "东南",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共18层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价88289元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "2室1厅",
+    "houseArea": "86.61平米",
+    "towards": "西南",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共28层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价30944元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "2室1厅",
+    "houseArea": "80.94平米",
+    "towards": "南",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共18层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价29158元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "2室1厅",
+    "houseArea": "97.84平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共25层)2007年建板塔结合",
+    "position": "卢沟桥",
+    "price": "单价29130元/平米"
+}, {
+    "communityName": "沸城",
+    "houseInfo": "3室1厅",
+    "houseArea": "129.02平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共22层)1999年建塔楼",
+    "position": "健翔桥",
+    "price": "单价48055元/平米"
+}, {
+    "communityName": "亚奥人家",
+    "houseInfo": "2室1厅",
+    "houseArea": "114.69平米",
+    "towards": "南",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共6层)1985年建板楼",
+    "position": "牡丹园",
+    "price": "单价84576元/平米"
+}, {
+    "communityName": "花园北路乙28号院",
+    "houseInfo": "3室1厅",
+    "houseArea": "69.19平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "无电梯",
+    "floorInfo": "底层(共18层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价104062元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "2室1厅",
+    "houseArea": "75.55平米",
+    "towards": "南",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共28层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价27135元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "2室1厅",
+    "houseArea": "99.73平米",
+    "towards": "南北",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共19层)2002年建板塔结合",
+    "position": "望京",
+    "price": "单价27876元/平米"
+}, {
+    "communityName": "大西洋新城D区",
+    "houseInfo": "2室2厅",
+    "houseArea": "106.86平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共15层)2007年建板楼",
+    "position": "回龙观",
+    "price": "单价112297元/平米"
+}, {
+    "communityName": "新龙城",
+    "houseInfo": "2室2厅",
+    "houseArea": "86.07平米",
+    "towards": "东北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共9层)1994年建板楼",
+    "position": "健翔桥",
+    "price": "单价59255元/平米"
+}, {
+    "communityName": "丝竹园小区",
+    "houseInfo": "2室1厅",
+    "houseArea": "59.59平米",
+    "towards": "东西",
+    "finish": "毛坯",
+    "lift": "无电梯",
+    "floorInfo": "中楼层(共18层)2009年建板楼",
+    "position": "燕顺路西",
+    "price": "单价80887元/平米"
+}, {
+    "communityName": "纳丹堡",
+    "houseInfo": "2室2厅",
+    "houseArea": "101.24平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "顶层(共6层)2003年建板楼",
+    "position": "回龙观",
+    "price": "单价31115元/平米"
+}, {
+    "communityName": "龙跃苑一区",
+    "houseInfo": "2室1厅",
+    "houseArea": "98.48平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "无电梯",
+    "floorInfo": "高楼层(共14层)1970年建塔楼",
+    "position": "金融街",
+    "price": "单价46710元/平米"
+}, {
+    "communityName": "宣武门西大街",
+    "houseInfo": "2室1厅",
+    "houseArea": "63.2平米",
+    "towards": "东北",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共6层)1997年建板楼",
+    "position": "望京",
+    "price": "单价115982元/平米"
+}, {
+    "communityName": "望京西园一区",
+    "houseInfo": "2室2厅",
+    "houseArea": "99.96平米",
+    "towards": "南北",
+    "finish": "简装",
+    "lift": "无电梯",
+    "floorInfo": "中楼层(共21层)2006年建塔楼",
+    "position": "岳各庄",
+    "price": "单价75031元/平米"
+}, {
+    "communityName": "珠江峰景",
+    "houseInfo": "2室2厅",
+    "houseArea": "112.29平米",
+    "towards": "东南西北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "高楼层(共6层)2008年建板楼",
+    "position": "回龙观",
+    "price": "单价63675元/平米"
+}, {
+    "communityName": "天露园二区",
+    "houseInfo": "3室2厅",
+    "houseArea": "127.97平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "信息缺失",
+    "floorInfo": "中楼层(共19层)2003年建板塔结合",
+    "position": "安宁庄",
+    "price": "单价42979元/平米"
+}, {
+    "communityName": "清上园",
+    "houseInfo": "1室1厅",
+    "houseArea": "63.1平米",
+    "towards": "东",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "高楼层(共6层)2002年建板楼",
+    "position": "管庄",
+    "price": "单价77338元/平米"
+}, {
+    "communityName": "建东苑",
+    "houseInfo": "2室1厅",
+    "houseArea": "87.84平米",
+    "towards": "南北",
+    "finish": "简装",
+    "lift": "无电梯",
+    "floorInfo": "顶层(共6层)1984年建板楼",
+    "position": "老山",
+    "price": "单价53507元/平米"
+}, {
+    "communityName": "老山东里",
+    "houseInfo": "3室1厅",
+    "houseArea": "61.52平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "无电梯",
+    "floorInfo": "低楼层(共25层)1990年建塔楼",
+    "position": "亚运村",
+    "price": "单价69896元/平米"
+}, {
+    "communityName": "安慧里二区",
+    "houseInfo": "2室1厅",
+    "houseArea": "66.33平米",
+    "towards": "东南",
+    "finish": "其他",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共20层)1999年建塔楼",
+    "position": "北大地",
+    "price": "单价91211元/平米"
+}, {
+    "communityName": "福顺里",
+    "houseInfo": "2室2厅",
+    "houseArea": "103.05平米",
+    "towards": "南",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "低楼层(共12层)2000年建板楼",
+    "position": "牛街",
+    "price": "单价69869元/平米"
+}, {
+    "communityName": "平原里小区",
+    "houseInfo": "2室1厅",
+    "houseArea": "67.56平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "高楼层(共11层)2004年建板楼",
+    "position": "回龙观",
+    "price": "单价105092元/平米"
+}, {
+    "communityName": "流星花园二区",
+    "houseInfo": "1室0厅",
+    "houseArea": "47.3平米",
+    "towards": "北",
+    "finish": "精装",
+    "lift": "信息缺失",
+    "floorInfo": "高楼层(共16层)2010年建板塔结合",
+    "position": "八角",
+    "price": "单价71882元/平米"
+}, {
+    "communityName": "融景城",
+    "houseInfo": "2室1厅",
+    "houseArea": "86.97平米",
+    "towards": "南",
+    "finish": "简装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共16层)2006年建板楼",
+    "position": "花乡",
+    "price": "单价73359元/平米"
+}, {
+    "communityName": "天伦锦城",
+    "houseInfo": "2室1厅",
+    "houseArea": "102.2平米",
+    "towards": "南",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共14层)1996年建板塔结合",
+    "position": "月坛",
+    "price": "单价57730元/平米"
+}, {
+    "communityName": "三里河东路",
+    "houseInfo": "3室1厅",
+    "houseArea": "101.1平米",
+    "towards": "东西",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "中楼层(共18层)2009年建板楼",
+    "position": "福成五期公交总站",
+    "price": "单价128091元/平米"
+}, {
+    "communityName": "福城上上城五期",
+    "houseInfo": "1室0厅",
+    "houseArea": "49.53平米",
+    "towards": "南",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "高楼层(共6层)2004年建板楼",
+    "position": "回龙观",
+    "price": "单价30891元/平米"
+}, {
+    "communityName": "流星花园三区",
+    "houseInfo": "3室2厅",
+    "houseArea": "151.42平米",
+    "towards": "南北",
+    "finish": "精装",
+    "lift": "有电梯",
+    "floorInfo": "信息缺失",
+    "position": "信息缺失",
+    "price": "单价68023元/平米"
+}]
